@@ -1,2 +1,2 @@
 # SOM
-SOM neural network for image segmentation
+SOM Unsupervised neuralnetwork for image segmentation
